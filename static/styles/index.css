@@ -7,7 +7,7 @@
     background-color: #ffffff;
     display: flex;
     justify-content: center;
-    background-image: url(/static/background.png);
+    background-image: url(../background.png);
 }
 
 .principal .img-box{

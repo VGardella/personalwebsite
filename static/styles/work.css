@@ -1,7 +1,7 @@
 /*PRINCIPAL*/
 
 .principal{
-    background-image: url(/static/portfolio-background.png);
+    background-image: url(../portfolio-background.png);
     height: 500px;
     display: flex;
     justify-content: center;
@@ -76,21 +76,19 @@
 
 .message .container{
     margin: 50px 200px;
-    width: 800px;
+    width: 900px;
     padding: 30px;
     background-color: #f9b5b5;
     border: outset 	#d84f4f;
     display: flex;
 }
 
-.message .container .img{
-    width: 400px;
-    height: 300px;
+.message .container .img img{
+    width: 500px;
     border: 2px solid #525252;
 }
 
 .message .container .text{
-    max-width: 350px;
     padding: 0 30px;
     margin-left: auto;
     display: flex;

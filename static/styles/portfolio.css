@@ -1,7 +1,7 @@
 /*PRINCIPAL*/
 
 .principal{
-    background-image: url(/static/portfolio-background.png);
+    background-image: url(../portfolio-background.png);
     height: 500px;
     display: flex;
     justify-content: center;
